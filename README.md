@@ -1,4 +1,4 @@
-# mounts_of_the_world
+# Mounts of the world
 
 A new Flutter project.
 
